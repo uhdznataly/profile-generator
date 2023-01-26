@@ -15,10 +15,8 @@ function validateInput(input) {
     }
 }
 
-let teamMember = [];
 
 
-const questions = [
+
     
-    function 
-]
+  
