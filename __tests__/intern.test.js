@@ -15,7 +15,7 @@ describe("Intern class constructor", () => {
             "Legolas",
             "1",
             "legolas@middleearth.com",
-            "leoglasgreenleaf"
+            "legolasgreenleaf"
         );
         expect(teamMember.getName()).toEqual("Legolas");
     });
