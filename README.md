@@ -6,11 +6,11 @@
 
 # Table of Contents
 
-* Installation
-* Usage
-* Tests
-* License
-* Contact
+## Installation
+## Usage
+## Tests
+## License
+## Contact
 
 
 # Installation
